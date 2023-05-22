@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mirasoft-test/static/css/main.c2cab247.css",
-    "main.js": "/mirasoft-test/static/js/main.d5fec675.js",
+    "main.js": "/mirasoft-test/static/js/main.368c3b5b.js",
     "index.html": "/mirasoft-test/index.html",
     "main.c2cab247.css.map": "/mirasoft-test/static/css/main.c2cab247.css.map",
-    "main.d5fec675.js.map": "/mirasoft-test/static/js/main.d5fec675.js.map"
+    "main.368c3b5b.js.map": "/mirasoft-test/static/js/main.368c3b5b.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.d5fec675.js"
+    "static/js/main.368c3b5b.js"
   ]
 }
