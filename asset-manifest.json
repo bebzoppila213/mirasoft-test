@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mirasoft-test/static/css/main.c2cab247.css",
+    "main.js": "/mirasoft-test/static/js/main.d5fec675.js",
+    "index.html": "/mirasoft-test/index.html",
+    "main.c2cab247.css.map": "/mirasoft-test/static/css/main.c2cab247.css.map",
+    "main.d5fec675.js.map": "/mirasoft-test/static/js/main.d5fec675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.d5fec675.js"
+  ]
+}
